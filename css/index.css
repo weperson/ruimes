@@ -149,7 +149,7 @@
 	font-size: 14px;
 
 }
-.divbox2 p,.divbox3 p,.divbox6 p{
+.divbox1 p,.divbox2 p,.divbox3 p,.divbox6 p{
 	overflow: hidden;
 	white-space: nowrap;
 	text-overflow: ellipsis;
